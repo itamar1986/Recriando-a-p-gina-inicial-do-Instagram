@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=HTML&message=index&color=red&style=for-the-badge&logo=HTML"/>
-  <img src="https://img.shields.io/static/v1?label=CSS&message=style&color=blue&style=for-the-badge&logo=CSS"/>
+  <img src="https://img.shields.io/static/v1?label=CSS&message=style&color=purple&style=for-the-badge&logo=CSS"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
